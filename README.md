@@ -37,7 +37,7 @@ Admin can delete a customer or delete a vehicle.
 
 Customer can delete their account or cancel their reservation.
 
-Real-time Updates in Backend:
+### Real-time Updates in Backend:
 
 When there is a change in the data of customer details they can see that their data getting updated without any refresh on the app 
 and the availability of vehicle is also updated just after the reservation.
